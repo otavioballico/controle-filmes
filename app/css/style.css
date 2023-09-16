@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.container{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn-container{
+    text-align: center;
+    margin-top: 20px;
+}
